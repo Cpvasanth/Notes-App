@@ -13,6 +13,7 @@ A simple, interactive, and responsive **Notes App** built with **React**. This a
 - **Validation**: Empty notes cannot be added to the list.
 - **View Notes**: All created notes are displayed in an intuitive and responsive layout.
 - **Delete Notes**: Remove any note with a simple click.
+- **Local Storage**: All notes are saved in the browser's local storage, ensuring data persistence even after refreshing or closing the browser.
 - **Responsive Design**: Optimized for various screen sizes with an appealing user interface.
 
 ## Tech Stack
